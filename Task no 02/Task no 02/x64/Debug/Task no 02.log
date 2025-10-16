@@ -1,0 +1,13 @@
+﻿  FileName.cpp
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(23,21): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(23,21): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(34,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(40,21): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(40,21): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(50,17): warning C4566: character represented by universal-character-name '\U0001F3AF' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(63,21): warning C4566: character represented by universal-character-name '\U0001F4ED' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(67,17): warning C4566: character represented by universal-character-name '\U0001F9FE' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(81,17): warning C4566: character represented by universal-character-name '\U0001F3E6' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(94,25): warning C4566: character represented by universal-character-name '\U0001F44B' cannot be represented in the current code page (1252)
+D:\Queue task\Task no 02\Task no 02\FileName.cpp(95,26): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Task no 02.vcxproj -> D:\Queue task\Task no 02\x64\Debug\Task no 02.exe
