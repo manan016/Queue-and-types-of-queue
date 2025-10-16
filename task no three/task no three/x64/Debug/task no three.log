@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\Queue task\task no three\task no three\FileName.cpp(37,21): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+D:\Queue task\task no three\task no three\FileName.cpp(37,21): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+D:\Queue task\task no three\task no three\FileName.cpp(89,26): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  task no three.vcxproj -> D:\Queue task\task no three\x64\Debug\task no three.exe
